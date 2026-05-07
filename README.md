@@ -4,7 +4,40 @@
 
 This page is a lightweight public showcase for reviewers. The full source code and experimental scripts are kept private during review to protect unpublished implementation details.
 
-![Lunar worksite dashboard](assets/lunar-worksite-dashboard.png)
+## Dashboard Progression
+
+The dashboard combines the 3D lunar worksite, the evolving task forest, governed blackboard events, and mission metrics. The frames below are representative snapshots from one medium-scenario run.
+
+![Dashboard progression](assets/dashboard-progression.png)
+
+## Evolving Task Forest Frames
+
+The task forest is not a static tree. During execution, lazy nodes become grounded, recovery branches are inserted, local replacements appear, and completed subtrees are folded or marked.
+
+![Evolving task forest progression](assets/task-forest-evolution.png)
+
+<details>
+<summary>Individual high-resolution frames</summary>
+
+### Full Dashboard Frames
+
+![Dashboard early](assets/dashboard-t0060.png)
+
+![Dashboard middle](assets/dashboard-t0900.png)
+
+![Dashboard late](assets/dashboard-t1500.png)
+
+### Task Forest Frames
+
+![Task forest frame 1](assets/task-forest-t0060.png)
+
+![Task forest frame 2](assets/task-forest-t0360.png)
+
+![Task forest frame 3](assets/task-forest-t0900.png)
+
+![Task forest frame 4](assets/task-forest-t1500.png)
+
+</details>
 
 ## What This Demonstrates
 
