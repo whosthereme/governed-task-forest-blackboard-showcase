@@ -22,6 +22,16 @@ Temporary constraints, affected regions, resource holds, and robot/task markers 
 
 ![Lunar worksite](assets/lunar-worksite-v17.png)
 
+## Reviewer Scenario Figures
+
+The public artifact also includes manuscript-level visual material that can be inspected without exposing the simulator source code. The first figure shows the remote-construction and indoor-factory validation domains; the second summarizes the factory validation and stress sweep; the third reports observed task-scale trends without extrapolated or predicted curves.
+
+![Validation domains](assets/environment-layout-v17.png)
+
+![Factory validation](assets/factory-validation-v17.png)
+
+![Observed task-scale trends](assets/task-scale-trends-v17.png)
+
 <details>
 <summary>Individual high-resolution frames</summary>
 
